@@ -15,7 +15,7 @@
 
 ### Задание 1. Создание реппозитория на GitHub.
 ---
-* Ссылка на реппозиторий - [GitHub](https://github.com/William-J-Butcher/CS_FinalTask)
+* Ссылка на реппозиторий - [GitHub](https://github.com/William-J-Butcher/Homework_FinalTask_CS)
 <br><br>
 ### Задание 2. Создание блок-схемы алгоритма решения задачи
 ---
